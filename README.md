@@ -1,4 +1,4 @@
-<h1>This is nornal Deep Learning</h1>
+<h1>This is normal Deep Learning</h1>
 
 
 <h3>model accuracy</h3>
