@@ -1,11 +1,11 @@
-This is nornal Deep Learning
+<h1>This is nornal Deep Learning</h1>
 
 
-model accuracy
+<h3>model accuracy</h3>
 
 ![image](https://github.com/LIMON-714/Driver_identification/assets/81027586/3794bdd7-9200-4773-bc98-bc614af88d2b)
 
-model loss
+<h3>model loss</h3>
 
 ![image](https://github.com/LIMON-714/Driver_identification/assets/81027586/74c240fd-4a2e-46f8-b965-0936baccfee9)
 
